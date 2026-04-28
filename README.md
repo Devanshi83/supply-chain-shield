@@ -10,7 +10,7 @@ A real-time intelligent logistics platform that predicts supply chain disruption
 
 **Deployed Application:** [Website link](https://supply-chain-shield-357239488411.asia-south1.run.app)
 
-**Demo Video:** [[Video Link](https://drive.google.com/file/d/19xgIbBC62FwLqxJsZCCi5hwtMiPSDeHq/view?usp=drive_link)]
+**Demo Video:** [Video Link](https://drive.google.com/file/d/19xgIbBC62FwLqxJsZCCi5hwtMiPSDeHq/view?usp=drive_link)
 
 ---
 
